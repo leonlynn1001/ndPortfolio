@@ -443,4 +443,11 @@ textarea {
     background-size: cover;
     border-bottom-left-radius: 0;
   }
+  .contact{
+    width: 100vw;
+    height: 100%;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+  }
 }
