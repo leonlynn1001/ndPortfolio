@@ -8,12 +8,11 @@
   - [Installation](#code editor,browser)
 
 ## Introduction
-Creating a web page using html & css with no js to understand css dispaly-flex properties.
+Creating a web page using html & css with no js to understand css dispaly-flex & grid properties.
 
 
 ## Features
-
-Two sections (1)toolbar or navbar (2)hero section
+Sections=>(1)Home,(2)Posts,(3)About and (4)Contact form
 
 ## Getting Started
 
